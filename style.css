@@ -1,0 +1,24 @@
+#city-name {
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+#temperature {
+    font-weight: bold;
+}
+
+#humidity {
+    font-weight: bold;
+}
+
+#wind-speed {
+    font-weight: bold;
+}
+
+body {
+    background-image: url("https://www.tbsearch.fr/wp-content/uploads/2015/10/iStock_000055597470_Small.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
